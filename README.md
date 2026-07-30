@@ -38,7 +38,3 @@ O objetivo foi analisar dados de marketing e negócios para avaliar o desempenho
 A análise completa pode ser consultada no notebook:
 
 [👉 Acessar o notebook do projeto](analise-negocios-metricas-marketing.ipynb)
-
-## 🎓 Formação
-
-Projeto desenvolvido durante a formação em **Análise de Dados – TripleTen**.
