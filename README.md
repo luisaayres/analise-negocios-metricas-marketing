@@ -4,7 +4,7 @@
 
 Projeto desenvolvido durante minha formação em Análise de Dados pela TripleTen.
 
-O objetivo foi analisar dados de marketing e negócios para avaliar o desempenho das campanhas, compreender o comportamento dos clientes e identificar oportunidades de melhoria por meio de métricas e indicadores.
+O objetivo foi analisar dados de marketing e negócios para avaliar o desempenho das campanhas de uma loja online, compreender o comportamento dos clientes e identificar oportunidades de melhoria por meio de métricas e indicadores.
 
 ## 🎯 Objetivos
 
